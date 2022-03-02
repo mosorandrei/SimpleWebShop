@@ -1,0 +1,4 @@
+com\simplewebshop\models\ProductCatalogUtils.class
+com\simplewebshop\controllers\HeyServlet.class
+com\simplewebshop\controllers\MenuServlet.class
+com\simplewebshop\models\Product.class
